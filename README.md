@@ -1,5 +1,7 @@
 # 🌍 AI Translator
 
+💡 From Concept To Creation
+
 > **Translate Anything. Anywhere. Simply.**
 
 A professional multilingual translation application built with Python and LibreTranslate.
